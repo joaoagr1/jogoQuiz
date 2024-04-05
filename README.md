@@ -26,3 +26,5 @@ To run the quiz locally, follow these steps:
 
    ```bash
    git clone https://github.com/your-username/quiz-certification.git
+
+   ...
